@@ -1,0 +1,8 @@
+id_perfil,area_conocimiento,peso_tiene_maestria,peso_tiene_doctorado,peso_anios_experiencia_docente_total,peso_anios_experiencia_industria,peso_comp_programacion,peso_comp_bases_datos,peso_comp_software,peso_comp_matematicas,peso_comp_gestion_compu,peso_comp_administracion,peso_comp_computacion,peso_total_certificaciones,peso_proyectos_desarrollo_reales,peso_proyectos_bd_reales,peso_proyectos_matematicos_reales,peso_proyectos_software_reales,peso_proyectos_infraestructura_reales,peso_comp_pedagogica_comunicacion,peso_produccion_academica,peso_comp_tec_herramientas_colaborativas
+perfil_programacion,Programación,0.07,0.03,0.12,0.18,0.23,0.04,0.14,0.01,0.01,0.01,0.01,0.06,0.09,,,,,,,
+perfil_bases_datos,Base de Datos,0.12,0.05,0.1,0.18,0.12,0.25,0.1,,,,,0.08,,0.1,,,,,,
+perfil_matematicas,Matemáticas,0.15,0.08,0.15,0.08,0.03,,,0.3,,,,,,,0.02,,,,,
+perfil_software,Software,0.12,0.05,0.1,0.18,0.2,0.1,0.25,0.03,,,,0.05,,,,0.13,,,,
+perfil_gestion_compu,Gestión Computacional,0.12,0.03,0.1,0.15,0.08,,0.1,,0.25,,,0.05,,,,,0.08,,,
+perfil_administracion,Administración,0.12,0.03,0.1,,,,,,,0.25,,0.05,,,,,,0.15,0.12,
+perfil_computacion,Computación,0.12,0.05,0.15,,,,,,,,0.25,0.05,,,,,,,,0.15
